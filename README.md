@@ -78,5 +78,4 @@ fatal: HTTP request failed
 ## 小额捐款
 
 如果你觉得Vim对你有帮助, 可以对作者进行小额捐款(微信):
-    
-![微信支付](https://github.com/lexkong/lexVim/blob/master/images/wechat.jpg)
+   
